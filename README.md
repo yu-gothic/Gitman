@@ -1,4 +1,4 @@
 # Gitman
 git
 
-gitgigiti
+gitigiti
